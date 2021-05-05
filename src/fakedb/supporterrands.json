@@ -1,0 +1,62 @@
+[
+    {
+        "id" : 1,
+        "name" : "Laga bana 9",
+        "errandNr" : 1224,
+        "category" : "Golfbana",
+        "status" : "Pågående",
+        "registerDate" : "2021-05-05",
+        "description" : "Gödsla greenen"
+
+    },
+    {
+        "id" : 2,
+        "name" : "Golfbil 2",
+        "errandNr" : 1233,
+        "category" : "Golfbil",
+        "status" : "Pågående",
+        "registerDate" : "2021-05-05",
+        "description" : "Däckbyte"
+
+    },
+    {
+        "id" : 3,
+        "name" : "Temp Övrigt",
+        "errandNr" : 1254,
+        "category" : "Övrigt",
+        "status" : "Pågående",
+        "registerDate" : "2021-05-05",
+        "description" : "Test"
+
+    },
+    {
+        "id" : 4,
+        "name" : "Golfbil 5",
+        "errandNr" : 1324,
+        "category" : "Golfbil",
+        "status" : "Pausad",
+        "registerDate" : "2021-05-05",
+        "description" : ""
+
+    },
+    {
+        "id" : 5,
+        "name" : "Övrigt",
+        "errandNr" : 1311,
+        "category" : "Övrigt",
+        "status" : "Pågående",
+        "registerDate" : "2021-05-05",
+        "description" : "Övrigt"
+
+    },
+    {
+        "id" : 6,
+        "name" : "Test",
+        "errandNr" : 1313,
+        "category" : "Övrigt",
+        "status" : "Pågående",
+        "registerDate" : "2021-05-05",
+        "description" : ""
+
+    }
+]

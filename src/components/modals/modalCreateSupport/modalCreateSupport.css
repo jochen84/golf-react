@@ -1,0 +1,23 @@
+.modal-background-new-support {
+  background: rgba(49, 46, 46, 0.8);
+  position: absolute;
+  width: 1429px;
+  height: 100%;
+  top: 0px;
+  left: 0px;
+  border-radius: 35px;
+  display: flex;
+  justify-content: center;
+  padding-top: 111px;
+  z-index: 5;
+}
+  
+.modal-wrapper-new-support{
+  width: 800px;
+  height: 630px;
+  border-radius: 35px;
+}
+
+textarea {
+  min-height: 220px;
+}

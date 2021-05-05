@@ -1,0 +1,44 @@
+[
+    {
+        "id" : 1,
+        "sender" : "test@test.se",
+        "title" : "Sponsor",
+        "category" : "Företagsavtal",
+        "messageType" : "E-post",
+        "date" : "2020-10-10",
+        "message" : "Hej!\nHör av er angående samarbete...\n\nMvh Nisse"
+    },
+    {
+        "id" : 2,
+        "sender" : "070-000 6662",
+        "title" : "Ett sms",
+        "category" : "SMS",
+        "messageType" : "SMS",
+        "date" : "2020-10-10",
+        "message" : "Detta är ett sms\nMvh Nisse"
+    },    {
+        "id" : 3,
+        "sender" : "073-555 5555",
+        "title" : "Uppgifter",
+        "category" : "SMS",
+        "messageType" : "SMS",
+        "date" : "2020-10-10",
+        "message" : "Hej!\nHär är ett sms från"
+    },    {
+        "id" : 4,
+        "sender" : "test@test.se",
+        "title" : "Sponsor",
+        "category" : "Företagsavtal",
+        "messageType" : "E-post",
+        "date" : "2020-10-10",
+        "message" : "Hejsan!\nVill ha samarbete!\n\nMvh Olle"
+    },    {
+        "id" : 5,
+        "sender" : "Sven Persson",
+        "title" : "Service Bil 2",
+        "category" : "Supportärende",
+        "messageType" : "Formulär",
+        "date" : "2020-10-10",
+        "message" : "Bil 2 behöver service innan fredag."
+    }
+]
